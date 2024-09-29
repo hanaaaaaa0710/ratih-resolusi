@@ -1,2 +1,2 @@
 # ratih-resolusi
-repository untuk menyimpan wpu kedepannya
+repository untuk menyimpan target kedepannya
