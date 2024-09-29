@@ -9,8 +9,6 @@ Rencana Konten Ratih
 ^Hip Thrust
 ^Leg Press
 - Back
+^Rear Delt Row
 - Triceps
-^Dips
--Bicep
--Shoulders
 
