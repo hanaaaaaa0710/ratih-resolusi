@@ -6,7 +6,11 @@ Rencana Konten Ratih
 *Chest Fly
 *Upright Row
 - Lower Body
+^Hip Thrust
+^Leg Press
 - Back
 - Triceps
+^Dips
 -Bicep
+-Shoulders
 
