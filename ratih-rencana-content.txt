@@ -7,6 +7,7 @@ Rencana Konten Ratih
 *Upright Row
 - Lower Body
 ^Hip Thrust
+^Leg Press
 - Back
 - Triceps
 ^Dips
